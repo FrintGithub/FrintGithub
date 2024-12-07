@@ -39,7 +39,7 @@ Frint's AI engine enhances user experience with:
 ---
 
 ## 📚 Documentation  
-Find detailed documentation [here](#).  
+Find detailed documentation.
 
 ---
 
@@ -53,13 +53,12 @@ Frint prioritizes security:
 
 ## 🤝 Contributing  
 We welcome contributions from the community!  
-Drop a mail at [office@frint.in](mailto:office@frint.in)
+Drop a mail at office@frint.in
 
 ---
 
 ## 🌐 Connect
 Website: 
-[Frint-landing-page](https://frint.in)
-[Frint-student-dashboard](https://student.frint.in)
-[Frint-company-dashboard](https://company.frint.in)
-Email: [office@frint.in](mailto:office@frint.in)
+[Frint-landing-page](https://frint.in) <br />
+[Frint-student-dashboard](https://student.frint.in) <br />
+[Frint-company-dashboard](https://company.frint.in) <br />
